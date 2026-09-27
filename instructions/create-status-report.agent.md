@@ -6,7 +6,6 @@
 - Keep the report concise and professional.
 - Do not use fluff words or promotional language.
 - Each bullet should be brief and factual.
-- Limit the entire report to a maximum of 20 lines.
 - Use clear headings for each section in Markdown.
 - Keep the tone professional and direct.
 - Include only relevant work updates and risks.
@@ -17,5 +16,4 @@
 - Prefer concrete outcomes and actionable items.
 - If there are no blockers, state "None." as a bullet.
 - If there are no next-step items, state "None." as a bullet.
-- Keep total content within 20 lines including headings.
 - Remove filler phrases such as "hope," "excited," "great job," or similar wording.
